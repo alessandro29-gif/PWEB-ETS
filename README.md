@@ -115,12 +115,15 @@ Desain antarmuka Landing Page dirancang secara responsif dan intuitif dengan kom
 4.1 Implementasi Kode
 
 4.1.1 Cuplikan Kode HTML (index/Home)
+
 <img width="785" height="497" alt="image" src="https://github.com/user-attachments/assets/6b82c0cb-f624-4676-b9cf-c951b35caea9" />
 
 4.1.2 Cuplikan Kode CSS
+
 <img width="658" height="611" alt="image" src="https://github.com/user-attachments/assets/c59d06b1-8fda-4798-8cb7-cad5bf18740e" />
 
 4.1.3 Cuplikan Kode JavaScript (kelola)
+
 <img width="685" height="622" alt="image" src="https://github.com/user-attachments/assets/deaaeec0-d064-4223-ad52-6575ca09e8d6" />
 
 4.2 Publish Web
